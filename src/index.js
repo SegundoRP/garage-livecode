@@ -1,4 +1,3 @@
-console.log("Connected")
 // 1. Fetch all cars from the API with a GET AJAX request
 // 2. Iterate over the cars you've just retrieved
 // 3. For each car, insert a new car card in the HTML
